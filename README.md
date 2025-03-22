@@ -1,4 +1,4 @@
-##DataSet Name :  "Panchayat Finance Data 2020-2021"
+DataSet Name :  "Panchayat Finance Data 2020-2021"
 
 * finyear: The financial year for which the data is recorded.
 * state_code: A numerical code representing the state.
@@ -17,6 +17,7 @@ It includes key financial metrics related to panchayat-level transactions, such 
 This dataset can be used to analyze financial trends, assess the efficiency of fund utilization, and identify gaps in financial governance at the grassroots level.
 
 Conclusion:
+
 The dataset offers a comprehensive view of panchayat financial activities for the fiscal year 2020-2021, helping policymakers and researchers assess financial transparency and administrative efficiency.
 By analyzing the trends, one can identify districts with low financial participation, improve digital adoption in financial governance, and enhance decision-making for future fiscal planning.
 Further analysis and visualization can provide deeper insights into fund allocation and utilization at the panchayat level. The more number of payment vochures are from Uttar pradesh
