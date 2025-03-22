@@ -1,14 +1,14 @@
 ##DataSet Name :  "Panchayat Finance Data 2020-2021"
 
-finyear: The financial year for which the data is recorded.
-state_code: A numerical code representing the state.
-state_name: The name of the state.
-district_code: A numerical code representing the district.
-district_name: The name of the district.
-onboard_egspi: Indicates whether the district has onboarded the e-Gram Swaraj Public Information system (0 = No, 1 = Yes).
-pv_initiated: The number of payments (or payment verifications) initiated.
-pv_approved: The number of payments (or payment verifications) approved.
-year_closed: Indicates whether the financial year processes are closed (0 = No, 1 = Yes).
+* finyear: The financial year for which the data is recorded.
+* state_code: A numerical code representing the state.
+* state_name: The name of the state.
+* district_code: A numerical code representing the district.
+* district_name: The name of the district.
+* onboard_egspi: Indicates whether the district has onboarded the e-Gram Swaraj Public Information system (0 = No, 1 = Yes).
+* pv_initiated: The number of payments (or payment verifications) initiated.
+*  pv_approved: The number of payments (or payment verifications) approved.
+* year_closed: Indicates whether the financial year processes are closed (0 = No, 1 = Yes).
 
 Introduction:
 
